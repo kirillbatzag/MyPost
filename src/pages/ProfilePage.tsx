@@ -1,1 +1,1 @@
-export default function ProfilePage(){}
+export default function ProfilePage() {}

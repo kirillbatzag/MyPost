@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Micro+5&display=swap");
+
+.ButtonSwitchLR {
+  font-family: "Micro 5", sans-serif;
+  font-size: 64px; // размер шрифта (можно изменить)
+
+  background: linear-gradient(to right, #4447f6, #5dc53d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text; /* поддержка для некоторых браузеров */
+  color: transparent; /* для кроссбраузерности */
+}

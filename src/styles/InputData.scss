@@ -1,0 +1,18 @@
+.InputData {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.InputData input {
+  width: 444px;
+  height: 56px;
+  border-radius: 20px;
+  border: 1px solid black;
+  font-size: 24px;
+  padding-left: 20px;
+}
+
+.InputData label {
+  font-size: 28px;
+}
